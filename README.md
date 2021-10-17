@@ -1,8 +1,23 @@
-# udemy_flutter
+# ShopApp_flutter_App
 
-A new Flutter application.
+Using  Real Api and Bloc design pattern (Cubit  ^7.0.0).
 
-## Getting Started
+## Package
+ * cupertino_icons: ^1.0.2
+ * sqflite: ^1.3.0
+ * intl: ^0.17.0
+ * conditional_builder: ^1.0.2
+ * bloc: ^7.0.0
+ * flutter_bloc: ^7.0.0
+ * dio: ^4.0.0
+ * hexcolor: ^2.0.3
+ * shared_preferences: ^2.0.5
+ * webview_flutter: ^2.0.3
+ * smooth_page_indicator: ^0.2.0
+ * fluttertoast: ^8.0.3
+ * carousel_slider: ^3.0.0
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
